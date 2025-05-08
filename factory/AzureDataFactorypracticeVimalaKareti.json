@@ -1,0 +1,9 @@
+{
+	"name": "AzureDataFactorypracticeVimalaKareti",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "87ff3653-0f66-46b3-a633-89585499de21",
+		"tenantId": "cca16542-3a4f-4cff-b476-f5faa6a90d96"
+	}
+}
